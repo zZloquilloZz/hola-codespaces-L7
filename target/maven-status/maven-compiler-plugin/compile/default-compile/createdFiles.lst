@@ -1,2 +1,5 @@
-com/example/holacodespacesL7/Controller.class
 com/example/holacodespacesL7/HolaCodespacesL7Application.class
+com/example/holacodespacesL7/User.class
+com/example/holacodespacesL7/ApiController.class
+com/example/holacodespacesL7/Controller.class
+com/example/holacodespacesL7/UserRepository.class
